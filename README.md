@@ -438,7 +438,7 @@ Team player with excellent communication, mentoring skills, and proven track rec
 
 📧 Email: [sanchit@example.com](mailto:monetc724@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/sanchit-profile](https://www.linkedin.com/in/sanchita-thakur-96275b294/)    
-🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+🌐 Portfolio: [yourportfolio.com](https://sanchita-folio.vercel.app/)
 
 <br/>
 
