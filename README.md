@@ -75,7 +75,7 @@ quick_stats:
 |:---------------|:----------|:--------|
 | 🏆 **SIH 2025 Runner-Up** | Dual role: ML Engineer + Full-Stack Dev | 2025 |
 | 🥇 **Hack4Delhi Top-5 Finalist** | Air Quality Multi-Modal DL System | 2026 |
-| 🎖️ **UIDAI Hackathon Finalist** | Aadhaar Anomaly Detection (GoI) | 2026 |
+| 🎖️ **UIDAI Hackathon** | Aadhaar Anomaly Detection (GoI) | 2026 |
 | 🏅 **4× National Hackathon Finalist** | Consistent top-tier performance | 2025-26 |
 | 💻 **550+ LeetCode Problems** | Rank #138k | Ongoing |
 | 🎓 **Hari Johri Scholar** | Academic Excellence at DTU | 2023-27 |
