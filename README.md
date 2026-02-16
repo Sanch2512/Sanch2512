@@ -6,7 +6,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchita-thakur-96275b294/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanchita-folio.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanchita-portfolio2.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monetc724@gmail.com)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/claude12/)
   
@@ -687,7 +687,7 @@ Community Contributions
 [![Email](https://img.shields.io/badge/📧_monetc724@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monetc724@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanchita_Thakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchita-thakur-96275b294/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanchita--folio.vercel.app-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanchita-folio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanchita--folio.vercel.app-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanchita-portfolio2.vercel.app/)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-550+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/claude12/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sanch2512-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanch2512)
