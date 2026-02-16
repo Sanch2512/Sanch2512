@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,1,11&height=200&section=header&text=Hey,%20I'm%20Sanchita%20👋&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Explorer%20|%20Building%20Digital%20Solutions&descAlignY=55&descSize=19" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,1,11&height=200&section=header&text=Hey,%20I'm%20Sanchita%20👋&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20SIH%202025%20Runner-Up&descAlignY=55&descSize=19" width="100%"/>
 </div>
 
 <div align="center">
@@ -8,96 +8,118 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchita-thakur-96275b294/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanchita-folio.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monetc724@gmail.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/claude12/)
   
 </div>
 
 <br/>
 
+<div align="center">
+  
+### 🎯 **550+ LeetCode Problems Solved** | 🏆 **SIH 2025 Runner-Up** | 🔥 **4× National Hackathon Finalist**
+
+</div>
+
 ---
 
 ## 🎓 About Me
 
-🏫 **B.Tech Computer Science Student** | Passionate Developer & Innovator
-
-💻 **Full-Stack Developer** with expertise in modern web technologies 
-
-🤖 **AI/ML Enthusiast** exploring machine learning and automation 
-
-🏆 **Hackathon Winner** | Multiple national-level achievements  
-
-🔭 **Always Learning** new technologies and best practices 
-
-💡 **Problem Solver** passionate about building impactful solutions 
-
-🤝 **Open Source Contributor** | Community-driven developer
-
-<br/>
-
----
-
-## 🏆 Achievements & Hackathons
-
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### 🥇 Major Achievement Unlocked
-**National Level Competition/Hackathon**  
-Won/Finalist with **Project XYZ** – An innovative full-stack application solving real-world problems with cutting-edge technology.
+🏫 **B.Tech Computer Science @ DTU** | CGPA: **7.86** | Hari Johri Scholar
 
-**Stack:** React, Node.js, PostgreSQL, AI Integration
+💻 **Full-Stack Developer** building scalable web applications with **React, Node.js, MongoDB**
+
+🤖 **AI/ML Engineer** specializing in **Deep Learning, PyTorch, TensorFlow** & **Generative AI**
+
+🏆 **Smart India Hackathon 2025 Runner-Up** | Led GIS mapping & ML module development
+
+🔭 **Government Hackathons Champion** - Top-5 Finalist in Hack4Delhi (GoI) & UIDAI Hackathon
+
+💡 **Problem Solver** with **550+ LeetCode problems** solved (37 Hard, 273 Medium) - Rank #138k
+
+🤝 **Open Source Contributor** | Active member of AIMS-DTU & tech communities
 
 </td>
-<td width="50%">
+<td width="40%">
 
-### 🎯 Competitive Track Record
+```yaml
+current_focus:
+  - 🔥 Competitive Programming
+  - 🧠 Deep Learning Research
+  - 🚀 Full-Stack Development
+  - 🌐 Open Source Contributions
 
-🏅 Hackathons Participated : 5+ 🎖️ National Finalist : 2 🥇 Winner : 1 🏆 Speaker/Organizer : 2
-
-
+quick_stats:
+  hackathons_won: "4+ National Finals"
+  leetcode_solved: "550+ problems"
+  projects_deployed: "10+ live"
+  github_streak: "Active daily"
+```
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>📜 View All Achievements</b></summary>
 <br/>
 
-| Achievement | Title | Project | Year |
-|-------------|-------|---------|------|
-| 🥇 National Hackathon | Winner | Project Alpha | 2025 |
-| 🎖️ Tech Summit | Finalist | Project Beta | 2024 |
-| 🏅 Innovation Challenge | Top 10 | Project Gamma | 2024 |
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| 🥇 Achievement | 🎯 Impact | 📅 Year |
+|:---------------|:----------|:--------|
+| 🏆 **SIH 2025 Runner-Up** | Dual role: ML Engineer + Full-Stack Dev | 2025 |
+| 🥇 **Hack4Delhi Top-5 Finalist** | Air Quality Multi-Modal DL System | 2026 |
+| 🎖️ **UIDAI Hackathon Finalist** | Aadhaar Anomaly Detection (GoI) | 2026 |
+| 🏅 **4× National Hackathon Finalist** | Consistent top-tier performance | 2025-26 |
+| 💻 **550+ LeetCode Problems** | Rank #138k | Ongoing |
+| 🎓 **Hari Johri Scholar** | Academic Excellence at DTU | 2023-27 |
+
+</div>
+
+<details>
+<summary><b>🎖️ View All Certifications & Badges</b></summary>
+<br/>
+
+### 📜 Professional Certifications
+
+- 🧠 **Machine Learning Specialization** - Stanford University, Kaggle | [View Certificate](https://drive.google.com/drive/folders/1Vdtp3IR_tgbbVddgdjos1X3mXZfZWWCv?usp=drive_link)
+- 🌐 **Graph Data Structures & Algorithms** - Algo University | [View Certificate](https://drive.google.com/file/d/1tQaHif--ykXc4KF3XRrkDMlH48j0h6f4/view?usp=drive_link)
+- 🤖 **Generative AI & ChatGPT** - GeeksforGeeks | [View Certificate](https://drive.google.com/drive/folders/1Vdtp3IR_tgbbVddgdjos1X3mXZfZWWCv?usp=drive_link)
+- 📊 **Strivers A-to-Z DSA** - TakeUForward | [View Certificate](https://drive.google.com/drive/folders/1Vdtp3IR_tgbbVddgdjos1X3mXZfZWWCv?usp=drive_link)
+
+### 🏅 Competition Badges & Recognition
+
+- 🔥 LeetCode Streak Badges & Contest Ratings
+- 🎯 Kaggle Competition Participant
+- 👥 Active AIMS-DTU & Step DTU Society Member
 
 </details>
 
 ---
 
-## 💼 Experience & Internships
+## 💼 Professional Experience
 
 <table>
 <tr>
 <td>
 
-### 💻 Full-Stack Developer Intern
-**[Company Name/Organization]** | [Duration]
+### 🔐 Cyber Security Intern
+**CDAC Noida (Cybergyaan)** | July 2025 - August 2025
 
-- Developed and deployed full-stack applications using React and Node.js
-- Optimized database queries improving application performance by 40%
-- Collaborated with cross-functional teams in Agile environment
+**🎯 Project: Ransomware Simulator for Security Testing**
 
-</td>
-</tr>
-<tr>
-<td>
+- 🛡️ Developed Python-based ransomware simulator encrypting **100+ files** using **256-bit Fernet keys**
+- 🔬 Modeled realistic cryptographic attack patterns for **controlled security research**
+- ⚡ Optimized key-generation routines, improving analysis throughput by **30%**
+- 📚 Deepened expertise in **cryptographic attacks, Windows security**, and **defense mechanisms**
 
-### 🤖 AI/ML Project Developer
-**[Project/Organization]** | [Duration]
-
-- Built machine learning models for real-world applications
-- Implemented automation solutions using LLMs and APIs
-- Created scalable backend services handling 1000+ requests/day
+**Tech Stack:** `Python` `Cryptography` `Fernet` `Windows VM` `Security Testing`
 
 </td>
 </tr>
@@ -110,11 +132,12 @@ Won/Finalist with **Project XYZ** – An innovative full-stack application solvi
 <div align="center">
 
 ### 💬 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -127,28 +150,38 @@ Won/Finalist with **Project XYZ** – An innovative full-stack application solvi
 ### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🤖 AI/ML & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 🤖 AI/ML & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+
+### 📚 Core Computer Science
+![DSA](https://img.shields.io/badge/Data_Structures-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OS](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networks](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
@@ -156,32 +189,155 @@ Won/Finalist with **Project XYZ** – An innovative full-stack application solvi
 
 ## 🚀 Featured Projects
 
+> **🌟 Showcasing award-winning projects from national hackathons and academic research**
+
+<br/>
+
+### 🥇 **TOP 3 COMPETITION WINNERS**
+
 <table>
 <tr>
 <td width="50%">
 
-### 🏆 Project Alpha - Game Changer
-**Award-Winning Full-Stack Application**
+## 🏆 1. Air Quality Classification System
+### 🥇 **Hack4Delhi Top-5 Finalist (Government of Delhi)**
 
-Revolutionary platform that transforms the way users interact with [industry/domain]. Built with modern tech stack and deployed to production serving 1000+ users.
+<div align="center">
 
-**Impact:** ⬆️ 40% efficiency improvement
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MobileNet](https://img.shields.io/badge/MobileNetV2-4285F4?style=flat-square&logo=google&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Stack:** `React` `Node.js` `PostgreSQL` `Redis` `Docker`
+</div>
 
-<a href="https://github.com/Sanch2512/project-alpha"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+**🎯 Multi-Modal Deep Learning for Urban Pollution Monitoring**
+
+#### 💡 Innovation Highlights:
+- 🧠 **Fused MobileNetV2 visual features** with **6 sensor inputs** (PM2.5, PM10, O₃, CO, SO₂, NO₂)
+- 📊 Classified **1,000+ pollution images** from India/Nepal into **3 AQI severity levels**
+- ⚡ Achieved **~90% validation accuracy** with zero overfitting across 20+ epochs
+- 🚀 **35% faster inference** via ONNX export for embedded/FPGA deployment
+- 🔬 Resolved class imbalance using **stratified splitting** & **early stopping**
+
+#### 📈 Real-World Impact:
+> **Selected for smart-city initiative** targeting real-time urban pollution monitoring across Delhi NCR
+
+**Tech Stack:** `PyTorch` `MobileNetV2` `ONNX Runtime` `Scikit-learn` `NumPy` `Pandas`
+
+<a href="https://github.com/Sanch2512/aqi-classification"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
 </td>
 <td width="50%">
 
-### 🤖 Project Beta - AI Innovation
-**Smart Automation Platform**
+## 🏆 2. SAKSHAM - GIS Disaster Management
+### 🥈 **Smart India Hackathon 2025 Runner-Up**
 
-Intelligent system leveraging LLMs and machine learning to automate complex workflows. Reduces manual effort by 60% with intuitive UI and powerful backend.
+<div align="center">
 
-**Tech Stack:** `FastAPI` `React` `OpenAI` `PostgreSQL` `LangChain`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<a href="https://github.com/Sanch2512/project-beta"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+**🎯 Real-Time Disaster Heatmap & Emergency Response System**
+
+#### 💡 Innovation Highlights:
+- 🗺️ **Engineered complete GIS mapping module** with live disaster heatmaps (flood, fire, earthquake)
+- 🚨 Real-time overlay of **3+ emergency resources** - NDRF units, blood banks, food shelters
+- ⚡ **40% faster response lookup** in simulated disaster drills
+- 👥 **Sub-second map refresh** for **500+ concurrent users** via Socket.io
+- 🏅 **Dual role:** ML Engineer + Full-Stack Developer in 36-hour sprint
+
+#### 📈 Real-World Impact:
+> **Selected among 100+ national teams** for potential deployment in India's disaster management infrastructure
+
+**Tech Stack:** `React.js` `Mapbox GL JS` `Socket.io` `Node.js` `Express.js` `MongoDB` `Redis`
+
+<a href="https://github.com/Sanch2512/saksham-gis"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+## 🏆 3. Aadhaar Authentication Anomaly Detection
+### 🥉 **UIDAI Hackathon Finalist (Government of India)**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+**🎯 Ensemble Anomaly Detection for National Identity Authentication**
+
+#### 💡 Innovation Highlights:
+- 🔍 **Ensemble pipeline** combining Z-Score, IQR, and **Isolation Forest** algorithms
+- 📊 Processed **Aadhaar authentication data** across **500+ districts**
+- 📈 Computed **6-month rolling baselines** to flag district-level irregularities
+- 📝 Generated **8+ structured intelligence reports** with geographic aggregation
+- 👨‍💼 **Led team as primary architect** - sprint planning, merge conflict resolution, demo strategy
+
+#### 📈 Real-World Impact:
+> **Proactive identification of authentication anomalies** enabling early detection of fraud patterns for UIDAI (Unique Identification Authority of India)
+
+**Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Isolation Forest` `Matplotlib` `Seaborn`
+
+<a href="https://github.com/Sanch2512/aadhaar-anomaly"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Research_Paper-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌟 **MORE IMPACTFUL PROJECTS**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Competitor Tracker
+**Archon AI Agentic Hackathon**
+
+**Intelligent Multi-Agent Web Monitoring System**
+
+- 🕵️ **95% change-detection accuracy** across 10+ competitor domains
+- 🤖 Automated extraction via **5 integrated APIs** (OpenAI, Serper, etc.)
+- ⚡ **40% boost** in market-intelligence throughput
+- 🧠 Built with **CrewAI** and **Groq LLM** multi-agent framework
+
+**Stack:** `Python` `CrewAI` `Groq LLM` `YAML` `OpenAI API` `Serper API`
+
+<a href="https://github.com/Sanch2512/ai-competitor-tracker"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+### 🎬 Movie Recommendation System
+**AIMS-DTU ML Project**
+
+**Hybrid Recommendation Engine**
+
+- 🎯 **85% prediction accuracy** using collaborative + content filtering
+- 📊 Measurably improved user engagement in internal evaluation
+- 🔬 Applied **matrix factorization** and **cosine similarity**
+- 📈 Processed **25,000+ movie ratings** for personalized recommendations
+
+**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Surprise Library`
+
+<a href="https://github.com/Sanch2512/movie-recommender"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -189,57 +345,36 @@ Intelligent system leveraging LLMs and machine learning to automate complex work
 <tr>
 <td width="50%">
 
-### 🌍 Project Gamma - Social Impact
-**Community-Driven Web Application**
+### 🏠 Housing Price Predictor
+**AIMS-DTU Kaggle Competition**
 
-Built to solve social challenges affecting millions. Features offline-first PWA, real-time collaboration, and multi-language support.
+**Advanced Regression with Feature Engineering**
 
-**Users Impacted:** 5000+
+- 📉 **22% RMSE reduction** versus baseline on Kaggle test data
+- 🔧 Engineered **20+ features** from raw housing data
+- ⚙️ Tuned **XGBoost** with GridSearchCV hyperparameter optimization
+- 📊 Achieved **Top 15%** ranking in competition leaderboard
 
-**Stack:** `React` `Node.js` `MongoDB` `PWA` `WebSocket`
+**Stack:** `Python` `XGBoost` `Pandas` `Feature Engineering` `Kaggle`
 
-<a href="https://github.com/Sanch2512/project-gamma"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%">
-
-### 📚 Project Delta - Learning Platform
-**EdTech Solution for Modern Education**
-
-Comprehensive platform featuring video lectures, progress tracking, interactive assignments, and real-time feedback system. Serves as a case study for scalable educational tech.
-
-**Stack:** `Next.js` `Express` `PostgreSQL` `Stripe` `WebRTC`
-
-<a href="https://github.com/Sanch2512/project-delta"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔧 Project Epsilon - Developer Tools
-**Open Source Utility Library**
-
-High-performance library used by 500+ developers. Well-documented, thoroughly tested, and continuously maintained.
-
-**Downloads:** 10K+ monthly
-
-**Stack:** `TypeScript` `Node.js` `Jest` `GitHub Actions`
-
-<a href="https://github.com/Sanch2512/project-epsilon"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Sanch2512/housing-price-ml"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%">
 
-### 💳 Project Zeta - FinTech MVP
-**Next-Gen Payment Processing**
+### 🔐 Ransomware Simulator
+**CDAC Internship Project**
 
-Secure payment gateway with real-time analytics, fraud detection, and multi-currency support. Enterprise-ready architecture.
+**Security Research & Cryptographic Testing**
 
-**Stack:** `Node.js` `React` `PostgreSQL` `Stripe API` `Docker`
+- 🛡️ Encrypted **100+ target files** using **256-bit Fernet keys**
+- 🔬 Replicated real-world cryptographic attack patterns
+- ⚡ **30% improvement** in analysis throughput
+- 📚 Controlled environment for security testing
 
-<a href="https://github.com/Sanch2512/project-zeta"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+**Stack:** `Python` `Cryptography` `Fernet` `Windows VM` `Security`
+
+<a href="https://github.com/Sanch2512/ransomware-simulator"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -247,7 +382,9 @@ Secure payment gateway with real-time analytics, fraud detection, and multi-curr
 
 <div align="center">
 
-<a href="https://github.com/Sanch2512?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Projects_→-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 📂 **Explore 15+ More Projects**
+
+<a href="https://github.com/Sanch2512?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories_→-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -260,41 +397,48 @@ Secure payment gateway with real-time analytics, fraud detection, and multi-curr
 <td align="center" width="25%">
 
 ### 💡 Innovation
-Leveraging cutting-edge technologies to create future-ready solutions that solve today's problems
+Leveraging **cutting-edge AI/ML** and **modern web technologies** to create **award-winning solutions** for real-world problems
 
 </td>
 <td align="center" width="25%">
 
 ### 🚀 Execution
-From concept to deployment—full-stack development with DevOps mindset and production-ready code
+From **concept to deployment** — proven track record in **4+ national hackathons** with **production-ready code**
 
 </td>
 <td align="center" width="25%">
 
 ### 🎯 Quality
-Clean architecture, comprehensive testing, documentation, and maintenance best practices
+**Clean architecture**, comprehensive **testing**, **documentation**, and **best practices** in every project
 
 </td>
 <td align="center" width="25%">
 
-### 🤝 Collaboration
-Team player with excellent communication, mentoring skills, and proven track record in hackathons
+### 🤝 Leadership
+**Team leader** with excellent **communication**, **sprint planning**, and **dual-role execution** (ML + Full-Stack)
 
 </td>
 </tr>
 </table>
 
 ---
+
 ## 📊 GitHub Analytics
 
-
 <div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sanch2512&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
 
 <!-- Top Languages with Donut Chart -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanch2512&theme=tokyonight&layout=donut&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="38%" />
 
+</div>
+
+<div align="center">
+
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanch2512&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=ff6b6b&point=58a6ff&area=true&area_color=58a6ff" width="60%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanch2512&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=ff6b6b&point=58a6ff&area=true&area_color=58a6ff" width="98%" />
 
 </div>
 
@@ -323,76 +467,102 @@ Team player with excellent communication, mentoring skills, and proven track rec
 <!-- Productive Time -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanch2512&theme=tokyonight&utcOffset=5.5" width="49%" />
 
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanch2512&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="49%" />
+
+</div>
+
+<div align="center">
+
 <!-- Trophy Display -->
 <img src="https://github-profile-trophy.vercel.app/?username=Sanch2512&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
 
-
-<!-- Detailed Metrics -->
-<details>
-<summary><b>📈 Detailed Metrics & Analytics</b></summary>
-<br/>
-
-<div align="center">
-
-<!-- WakaTime Stats (if you setup WakaTime) -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanch2512&theme=tokyonight&hide_border=true&layout=compact&custom_title=Coding%20Activity%20(Last%207%20Days)" width="49%" />
-
-<!-- Pin Repos -->
-<a href="https://github.com/Sanch2512/project-alpha">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanch2512&repo=project-alpha&theme=tokyonight&hide_border=true" width="49%" />
-</a>
-
-<a href="https://github.com/Sanch2512/project-beta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanch2512&repo=project-beta&theme=tokyonight&hide_border=true" width="49%" />
-</a>
-
-<a href="https://github.com/Sanch2512/project-gamma">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanch2512&repo=project-gamma&theme=tokyonight&hide_border=true" width="49%" />
-</a>
-
-<a href="https://github.com/Sanch2512/project-delta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanch2512&repo=project-delta&theme=tokyonight&hide_border=true" width="49%" />
-</a>
-
-</div>
-
-### 📊 Contribution Stats
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 🎯 Total Commits (2025) | ![](https://img.shields.io/badge/dynamic/json?color=58a6ff&label=commits&query=$.totalCommits&url=https://github-readme-stats.vercel.app/api?username=Sanch2512&count_private=true&show_icons=true) |
-| 🔥 Current Streak | ![](https://img.shields.io/badge/dynamic/json?color=ff6b6b&label=days&query=$.currentStreak&url=https://github-readme-streak-stats.herokuapp.com/?user=Sanch2512) |
-| ⭐ Total Stars Earned | ![](https://img.shields.io/badge/dynamic/json?color=yellow&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/Sanch2512) |
-| 🍴 Total Forks | ![](https://img.shields.io/badge/dynamic/json?color=green&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/Sanch2512) |
-
-</div>
-
-</details>
-
 ---
 
-<!-- Visitor Counter -->
+## 💻 Competitive Programming
+
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Sanch2512&color=58a6ff&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Sanch2512?style=for-the-badge&color=58a6ff)](https://github.com/Sanch2512?tab=followers)
+
+### 🏅 **LeetCode Stats**
+
+[![LeetCode](https://img.shields.io/badge/Rank-%23138k-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/claude12/)
 
 </div>
 
+<table align="center">
+<tr>
+<td align="center">
+
+### 📊 Problem Solving Stats
+
+| Category | Count |
+|----------|-------|
+| 🔥 **Total Solved** | **550+** |
+| 🏆 **Hard** | **37** |
+| 🎯 **Medium** | **273** |
+| ✅ **Easy** | **240+** |
+
+</td>
+<td align="center">
+
+### 🎖️ Key Achievements
+
+- 🔥 Active LeetCode Streak Badges
+- 📈 Consistent Contest Participation
+- 💡 Top 15% in Weekly Contests
+- 🏅 Multiple Problem-Solving Badges
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![LeetCode Profile](https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/claude12/)
+
 </div>
+
+---
 
 ## 🌐 Open Source & Community
 
 <div align="center">
 
-✨ Active contributor to open-source projects  
-🎓 Mentor and technical writer  
-💬 Active in tech communities and forums  
-🎤 Sharing knowledge through blogs and talks  
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ✨ Open Source
+Active contributor to **AI/ML** and **web development** projects
+
+</td>
+<td align="center" width="25%">
+
+### 🎓 Mentorship
+Technical mentor at **AIMS-DTU** guiding juniors in **ML & DSA**
+
+</td>
+<td align="center" width="25%">
+
+### 💬 Community
+Active in **tech forums**, **Discord servers**, and **GitHub discussions**
+
+</td>
+<td align="center" width="25%">
+
+### 🎤 Knowledge Sharing
+Writing **technical blogs** and participating in **tech talks**
+
+</td>
+</tr>
+</table>
+
+### 👥 Society Memberships
+
+- 🤖 **AIMS-DTU Society** - Former Member (Oct 2024 - Jan 2025)
+- 🚀 **Step DTU Society** - Former Member (Apr 2024 - Aug 2024)
 
 </div>
 
@@ -400,28 +570,69 @@ Team player with excellent communication, mentoring skills, and proven track rec
 
 ## 🎯 Currently Working On
 
-🔄 Building scalable microservices architecture 🔄 Exploring advanced AI/ML applications 🔄 Contributing to impactful open-source projects 🔄
+<table>
+<tr>
+<td width="50%">
 
+### 🔥 Active Projects
 
----
+- 🧠 **Advanced Deep Learning** - ResNet, Transformers, Attention Mechanisms
+- 🌐 **Microservices Architecture** - Docker, Kubernetes, CI/CD
+- 🤖 **LLM Applications** - RAG, Fine-tuning, Prompt Engineering
+- 🏆 **Competitive Programming** - Daily LeetCode, Weekly Contests
 
-## 📚 Certifications & Learning
+</td>
+<td width="50%">
 
-- 🎓 [Your Certification 1] - [Platform] - [Year]
-- 🎓 [Your Certification 2] - [Platform] - [Year]
-- 📖 Continuous learner | Always exploring new technologies
+### 📚 Learning Path
+
+- 📊 **System Design** - Scalability, Load Balancing, Caching
+- ☁️ **Cloud Computing** - AWS, Azure, Serverless Architecture
+- 🔐 **Cybersecurity** - Penetration Testing, Secure Coding
+- 🧪 **Research** - Publishing ML papers, Open-source contributions
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💬 Fun Facts About Me
 
-- 🎮 I debug code like solving a mystery—every error is a clue
-- ☕ Coffee is my fuel; code is my passion
+<div align="center">
+
+```python
+class Sanchita:
+    def __init__(self):
+        self.username = "Sanch2512"
+        self.role = "Full-Stack Developer & AI/ML Engineer"
+        self.education = "B.Tech CS @ DTU"
+        self.achievements = ["SIH Runner-Up", "4× Hackathon Finalist"]
+        
+    def daily_routine(self):
+        return [
+            "☕ Coffee",
+            "💻 Code",
+            "🏆 LeetCode",
+            "🧠 Learn AI/ML",
+            "🚀 Build Projects",
+            "🎵 Music",
+            "🔁 Repeat"
+        ]
+    
+    def philosophy(self):
+        return "Code is poetry written in logic ✨"
+```
+
+</div>
+
+- 🎮 I debug code like solving a mystery — every error is a clue
+- ☕ **Coffee is my fuel; code is my passion**
 - 🌍 Open-source advocate | Knowledge sharing enthusiast
-- 🚀 Thrive under pressure | Hackathons are my playground
+- 🚀 **Thrive under pressure** | Hackathons are my playground
 - 📖 Tech blogs & documentation junkie
-- 💪 Believe in writing clean, maintainable, and well-tested code
-- 🎵 Music + Code = Perfect productivity combo
+- 💪 Believe in **clean, maintainable, well-tested code**
+- 🎵 **Music + Code = Perfect productivity combo**
 
 ---
 
@@ -430,19 +641,40 @@ Team player with excellent communication, mentoring skills, and proven track rec
 <div align="center">
 
 ### 💼 I'm always interested in:
-✨ **Exciting projects** | 🤖 **AI/ML opportunities** | 🌐 **Full-stack roles** | 🔥 **Hackathons** | 📚 **Knowledge sharing**
+
+<table>
+<tr>
+<td align="center">✨ <b>Exciting Projects</b></td>
+<td align="center">🤖 <b>AI/ML Opportunities</b></td>
+<td align="center">🌐 <b>Full-Stack Roles</b></td>
+</tr>
+<tr>
+<td align="center">🔥 <b>Hackathons</b></td>
+<td align="center">📚 <b>Open Source</b></td>
+<td align="center">🎓 <b>Research Collaboration</b></td>
+</tr>
+</table>
 
 <br/>
 
-📫 **Reach out to me:**
+### 📫 **Reach Out:**
 
-📧 Email: [sanchit@example.com](mailto:monetc724@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/sanchit-profile](https://www.linkedin.com/in/sanchita-thakur-96275b294/)    
-🌐 Portfolio: [yourportfolio.com](https://sanchita-folio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-monetc724@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monetc724@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanchita_Thakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchita-thakur-96275b294/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanchita--folio.vercel.app-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanchita-folio.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-claude12-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/claude12/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sanch2512-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanch2512)
 
 <br/>
 
 > **"Code is poetry written in logic. Let's create something extraordinary together!"** 🚀
+
+<br/>
+
+<!-- Visitor Counter & Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=Sanch2512&color=58a6ff&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Sanch2512?style=for-the-badge&color=58a6ff)](https://github.com/Sanch2512?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Sanch2512?style=for-the-badge&color=yellow)](https://github.com/Sanch2512?tab=repositories)
 
 </div>
 
@@ -452,6 +684,10 @@ Team player with excellent communication, mentoring skills, and proven track rec
 
 <div align="center">
 
-### Made with ❤️ by Sanchita
+### ⭐ Made with ❤️ by **Sanchita Thakur**
+
+**💡 If you find my work interesting, consider giving a star to my repositories!**
+
+[![Star Repositories](https://img.shields.io/badge/⭐_Star_My_Repos-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sanch2512?tab=repositories)
 
 </div>
