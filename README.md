@@ -596,43 +596,51 @@ Writing **technical blogs** and participating in **tech talks**
 </table>
 
 ---
-
 ## 💬 Fun Facts About Me
 
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-```python
-class Sanchita:
-    def __init__(self):
-        self.username = "Sanch2512"
-        self.role = "Full-Stack Developer & AI/ML Engineer"
-        self.education = "B.Tech CS @ DTU"
-        self.achievements = ["SIH Runner-Up", "4× Hackathon Finalist"]
-        
-    def daily_routine(self):
-        return [
-            "☕ Coffee",
-            "💻 Code",
-            "🏆 LeetCode",
-            "🧠 Learn AI/ML",
-            "🚀 Build Projects",
-            "🎵 Music",
-            "🔁 Repeat"
-        ]
-    
-    def philosophy(self):
-        return "Code is poetry written in logic ✨"
-```
+### 🎯 What Drives Me
 
-</div>
-
-- 🎮 I debug code like solving a mystery — every error is a clue
+- 🔍 I debug code like solving a mystery — every error is a clue
 - ☕ **Coffee is my fuel; code is my passion**
 - 🌍 Open-source advocate | Knowledge sharing enthusiast
 - 🚀 **Thrive under pressure** | Hackathons are my playground
 - 📖 Tech blogs & documentation junkie
 - 💪 Believe in **clean, maintainable, well-tested code**
 - 🎵 **Music + Code = Perfect productivity combo**
+- 🏆 **4× National Hackathon Finalist** with consistent top-tier performance
+- 🧠 Problem-solver who loves learning cutting-edge technologies
+
+</td>
+<td width="40%">
+
+### 💭 My Philosophy
+
+<div align="center">
+
+> *"Code is poetry written in logic."* ✨
+
+**Let's create something extraordinary together!** 🚀
+
+</div>
+
+---
+
+### ⚡ Quick Facts
+
+- 👤 **Name:** Sanchita Thakur
+- 💼 **Role:** Full-Stack & AI/ML Engineer
+- 🎓 **Education:** B.Tech CS @ DTU
+- 📍 **Status:** Building & Learning
+- 🎯 **Focus:** DSA, AI/ML, Web Dev
+- 💡 **Motto:** Quality > Quantity
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -640,41 +648,57 @@ class Sanchita:
 
 <div align="center">
 
-### 💼 I'm always interested in:
+### 💼 Open to Opportunities In
+
+</div>
 
 <table>
 <tr>
-<td align="center">✨ <b>Exciting Projects</b></td>
-<td align="center">🤖 <b>AI/ML Opportunities</b></td>
-<td align="center">🌐 <b>Full-Stack Roles</b></td>
-</tr>
-<tr>
-<td align="center">🔥 <b>Hackathons</b></td>
-<td align="center">📚 <b>Open Source</b></td>
-<td align="center">🎓 <b>Research Collaboration</b></td>
+<td align="center" width="33%">
+
+**✨ Exciting Projects**
+
+Full-Stack & AI/ML Development
+
+</td>
+<td align="center" width="33%">
+
+**🔥 Hackathons**
+
+Competitive Problem Solving
+
+</td>
+<td align="center" width="33%">
+
+**📚 Open Source**
+
+Community Contributions
+
+</td>
 </tr>
 </table>
 
+<div align="center">
+
 <br/>
 
-### 📫 **Reach Out:**
+### 📫 Reach Out to Me
 
-[![Email](https://img.shields.io/badge/Email-monetc724@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monetc724@gmail.com)
+[![Email](https://img.shields.io/badge/📧_monetc724@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monetc724@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanchita_Thakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchita-thakur-96275b294/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sanchita--folio.vercel.app-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanchita-folio.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-claude12-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/claude12/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-550+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/claude12/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sanch2512-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanch2512)
 
 <br/>
 
-> **"Code is poetry written in logic. Let's create something extraordinary together!"** 🚀
+### 📊 Profile Analytics
 
-<br/>
-
-<!-- Visitor Counter & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=Sanch2512&color=58a6ff&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Sanch2512?style=for-the-badge&color=58a6ff)](https://github.com/Sanch2512?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Sanch2512?style=for-the-badge&color=yellow)](https://github.com/Sanch2512?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=Sanch2512&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Sanch2512?style=for-the-badge&color=58a6ff&label=FOLLOWERS)](https://github.com/Sanch2512?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Sanch2512?style=for-the-badge&color=yellow&label=TOTAL+STARS)](https://github.com/Sanch2512?tab=repositories)
 
 </div>
 
@@ -684,10 +708,16 @@ class Sanchita:
 
 <div align="center">
 
-### ⭐ Made with ❤️ by **Sanchita Thakur**
+### ⭐ Made with ❤️ by Sanchita Thakur
 
-**💡 If you find my work interesting, consider giving a star to my repositories!**
+**💡 If you find my work interesting, consider starring my repositories!**
 
-[![Star Repositories](https://img.shields.io/badge/⭐_Star_My_Repos-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sanch2512?tab=repositories)
+<br/>
+
+[![⭐ Star My Repositories](https://img.shields.io/badge/⭐_Star_My_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sanch2512?tab=repositories)
+
+<br/>
+
+*Thank you for visiting! Happy Coding!* 🚀
 
 </div>
