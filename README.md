@@ -36,7 +36,7 @@
 
 🏆 **Smart India Hackathon 2025 Runner-Up** | Led GIS mapping & ML module development
 
-🔭 **Government Hackathons Champion** - Top-5 Finalist in Hack4Delhi (GoI) & UIDAI Hackathon
+🔭 **Government Hackathons Champion** - Top-5 Finalist in Hack4Delhi (GoI) & SIH'25
 
 💡 **Problem Solver** with **550+ LeetCode problems** solved (37 Hard, 273 Medium) - Rank #138k
 
