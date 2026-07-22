@@ -245,7 +245,7 @@ quick_stats:
 
 **Tech Stack:** `React.js` `Mapbox GL JS` `Socket.io` `Node.js` `Express.js` `MongoDB` `Redis`
 
-<a href="https://github.com/Sanch2512/saksham-gis"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Sanch2512/SAKSHAM-dashboard"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
 </td>
@@ -280,7 +280,7 @@ quick_stats:
 
 **Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Isolation Forest` `Matplotlib` `Seaborn`
 
-<a href="https://github.com/Sanch2512/aadhaar-anomaly"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Sanch2512/Adhaar_Uidai_hackathon"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Research_Paper-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 
 </td>
